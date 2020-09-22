@@ -10,4 +10,4 @@ For your ticklish penguin, you could move your picture from the previous penguin
 Samples of Student Work
 -----------------------
 [Tobias](https://editor.p5js.org/tozuercher/present/zEXhCavEJ)    
-[Daniil](https://editor.p5js.org/tozuercher/present/zEXhCavEJ)   
+[Daniil](https://editor.p5js.org/dakardava/present/YquaAxqcv)    
