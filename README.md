@@ -9,5 +9,10 @@ For your ticklish penguin, you could move your picture from the previous penguin
 
 Samples of Student Work
 -----------------------
+[Iris[(https://editor.p5js.org/irchu1/present/68JLR9FO_)   
 [Tobias](https://editor.p5js.org/tozuercher/present/zEXhCavEJ)    
+[Tommy](https://editor.p5js.org/toyu3/present/LWEu6EkLf)   
+[Naomi](https://editor.p5js.org/nakung/present/bV5KF7i04)   
 [Daniil](https://editor.p5js.org/dakardava/present/YquaAxqcv)    
+[Henry](https://editor.p5js.org/hejuarez1/present/dGNyDQiVM)   
+[Frank](https://editor.p5js.org/frshi/present/VIK0F7Ut5)   
