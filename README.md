@@ -9,10 +9,24 @@ For your ticklish penguin, you could move your picture from the previous penguin
 
 Samples of Student Work
 -----------------------
-[Iris](https://editor.p5js.org/irchu1/present/68JLR9FO_)   
+[Joana](https://editor.p5js.org/jogaray-velazquez/present/Za32JabJz)   
+[Irisa](https://editor.p5js.org/irchu1/present/68JLR9FO_)   
+[Michelle](https://editor.p5js.org/michelle0/present/Th5sVNLEM)   
+[Sophia](https://editor.p5js.org/sophiapan/present/jWRVV3GK_)   
+[Brian](https://editor.p5js.org/brsen/present/VOO47ND0W)   
 [Tobias](https://editor.p5js.org/tozuercher/present/zEXhCavEJ)    
 [Tommy](https://editor.p5js.org/toyu3/present/LWEu6EkLf)   
 [Naomi](https://editor.p5js.org/nakung/present/bV5KF7i04)   
 [Daniil](https://editor.p5js.org/dakardava/present/YquaAxqcv)    
+[Andrew](https://editor.p5js.org/anpun/present/UOMY9om9K)   
 [Henry](https://editor.p5js.org/hejuarez1/present/dGNyDQiVM)   
 [Frank](https://editor.p5js.org/frshi/present/VIK0F7Ut5)   
+[Damien](https://editor.p5js.org/dabogdon/present/MLuytVME3)   
+[Elliot](https://editor.p5js.org/elchen/present/i3gqz-997)   
+[Leah](https://editor.p5js.org/leahcochrum/present/v6KH8RRLG)   
+[Supath](https://editor.p5js.org/sugurung/present/u83TQtqfZw)   
+[Sally](https://editor.p5js.org/sahong3/present/yebxSW8LR)   
+[Maya](https://editor.p5js.org/mapfuetzner/present/XsU8XRjkf)   
+[Diego](https://editor.p5js.org/disurasalvador/present/xS1zrf5qf)   
+[Lillian](https://editor.p5js.org/litang/present/xwhE5562G)   
+
